@@ -1,0 +1,25 @@
+{
+  "name": "Maison",
+  "short_name": "Maison",
+  "description": "Curated home goods and accessories for modern living",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4f1",
+  "theme_color": "#c96f4b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"]
+}
